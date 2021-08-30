@@ -1,0 +1,16 @@
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.exe
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.deps.json
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.runtimeconfig.json
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.runtimeconfig.dev.json
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.dll
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\ref\Questao1.dll
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\bin\Debug\net5.0\Questao1.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.csprojAssemblyReference.cache
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.AssemblyInfo.cs
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.dll
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\ref\Questao1.dll
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\Teste_Tecnico\Teste_Tecnico\obj\Debug\net5.0\Questao1.genruntimeconfig.cache
